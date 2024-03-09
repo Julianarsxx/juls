@@ -50,7 +50,7 @@ int main() {
         } else {
             printf("%d is not a Fibonacci number!\n\n", i);
     }
-        
+      printf("\n");  
     }
     
     return 0;
